@@ -1,0 +1,38 @@
+.sky{
+  width: 750px;
+  height: 250px;
+  background-color: rgb(0, 255, 255);
+  padding-top: 50px;
+}
+
+body{
+  margin-top: 180px;
+  margin-left: 300px;
+}
+
+.sun{
+  width: 40px;
+  height: 40px;
+  background-color: orange;
+  box-shadow: 2px 2px 2px brown;
+  border-radius: 50px;
+  margin-left: 100px;
+}
+
+.mountain1{
+  width: 500px;
+  height: 250px;
+  background-color: green;
+  border-radius: 0 200% 0 0;
+  margin: -110px 0 0 0;
+  float:left;
+}
+
+.mountain2{
+  width: 500px;
+  height: 250px;
+  background-color: green;
+  border-radius: 200% 0 0 0;
+  margin: -110px 0 0 -250px;
+  float:left;
+}
